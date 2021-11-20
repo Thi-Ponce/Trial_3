@@ -1,0 +1,21 @@
+#welcome-section{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+#projects {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+#About{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
